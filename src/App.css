@@ -4,12 +4,12 @@
 
 .App-header {
   background-color: #252525;
-  font-size: calc(10px + 2vmin);
-  padding: 1% 0% 1% 0%;
+  font-size: calc(8px + 2vmin);
+  padding: 10px 0px 10px 0px;
   color: rgb(205, 205, 205);
 }
 
-.Opaque-background {
+.Opaque-tab {
   border-radius: 25px;
   display: block;
   float: left;
@@ -18,7 +18,7 @@
 }
 
 .App-div {
-  background-image: url(/src/img/computer.jpg);
+  background-image: url(/src/img/laptop.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -39,8 +39,8 @@
 }
 
 #App-footer {
-  text-align: left;
+  text-align: center;
   background-color: #252525;
   color: rgb(205, 205, 205);
-  padding: 0.5% 0.5% 0.5% 0.5%;
+  padding: 2px 0px 5px 0px;
 }
